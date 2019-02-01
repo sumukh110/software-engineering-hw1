@@ -1,0 +1,54 @@
+Run options: include {:full_description=>/\#sum\ /}
+...
+
+Finished in 0.00415 seconds (files took 0.08992 seconds to load)
+3 examples, 0 failures
+
+Run options: include {:full_description=>/\#max_2_sum/}
+.....
+
+Finished in 0.00451 seconds (files took 0.08935 seconds to load)
+5 examples, 0 failures
+
+Run options: include {:full_description=>/\#sum_to_n/}
+....
+
+Finished in 0.00297 seconds (files took 0.0886 seconds to load)
+4 examples, 0 failures
+
+Run options: include {:full_description=>/\#hello/}
+..
+
+Finished in 0.00178 seconds (files took 0.08789 seconds to load)
+2 examples, 0 failures
+
+Run options: include {:full_description=>/\#starts_with_consonant\?/}
+.....
+
+Finished in 0.00308 seconds (files took 0.0878 seconds to load)
+5 examples, 0 failures
+
+Run options: include {:full_description=>/\#binary_multiple_of_4\?/}
+...
+
+Finished in 0.00288 seconds (files took 0.09229 seconds to load)
+3 examples, 0 failures
+
+Run options: include {:full_description=>/getters\ and\ setters/}
+....
+
+Finished in 0.00135 seconds (files took 0.08866 seconds to load)
+4 examples, 0 failures
+
+Run options: include {:full_description=>/constructor/}
+...
+
+Finished in 0.00169 seconds (files took 0.09021 seconds to load)
+3 examples, 0 failures
+
+Run options: include {:full_description=>/\#price_as_string/}
+....
+
+Finished in 0.00197 seconds (files took 0.08954 seconds to load)
+4 examples, 0 failures
+
